@@ -1,4 +1,4 @@
-module go_jenkins_pipeline
+module go-docker-jenkins
 
 go 1.24
 
